@@ -1,5 +1,5 @@
 # Scientific Games Test.
-The data files with .dat extention 
+The data files with .dat extension 
 have only birth and death years per person per line.
 
 Only first year with maximum number of alive people will be printed.
