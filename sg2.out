@@ -1,0 +1,18 @@
+Total records = 3
+First birth year = 1
+Last death year = 10
+Years of life span analysis = 10
+
+
+Finding max year and max freq
+1	1
+2	1
+3	2
+4	3
+5	3
+6	3
+7	3
+8	2
+9	2
+10	1
+Max number of alive people 3 were in 4
