@@ -100,7 +100,7 @@ int main(int argc, char**argv)
     }
     
     cout<<"\n\nFinding max year and max freq"<<endl;
- 	
+ 	cout<<"Year\tNumber of Alive People"<<endl;
  	//	Find max frequency here - only first such year will be printed below.
  	for(i=0;i<years;i++) {
  		
